@@ -1,1 +1,1 @@
-# java-sv2-daily-labs10
+### 10. heti konzultációs feladatok megoldása
